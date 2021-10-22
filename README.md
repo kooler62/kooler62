@@ -5,6 +5,21 @@
 [![Visits Badge](https://badges.pufler.dev/visits/kooler62/kooler62)](https://badges.pufler.dev)
 
 
+
+<h3>Things I code with</h3>
+<p>
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+</p>
+
+
 <p align="left">
   <a href="https://github.com/kooler62/kooler62">
     <img src="https://komarev.com/ghpvc/?username=kooler62" alt="page views" />
@@ -21,6 +36,23 @@
   </a>
 
 </p>
+
+
+
+<h1 align="center"> 🤝 Socials: </h1>
+  <p align="center">
+  
+    <a href="https://stackoverflow.com/users/story/14553594">
+      <img src="https://img.shields.io/badge/stack%20overflow-F58025?&style=for-the-badge&logo=stack%20overflow&logoColor=white">
+    </a>
+    <a href="https://raklaptudirm.medium.com/">
+      <img src="https://img.shields.io/badge/medium-000000?&style=for-the-badge&logo=medium&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/rak-laptudirm-09b444211/">
+      <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  </p>
+</h1>
 
 
 
