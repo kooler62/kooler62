@@ -12,8 +12,8 @@
   <a href="https://macropower.readthedocs.io/en/latest">
     <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
   </a>
-  <a href="https://stackoverflow.com/users/439871">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/439871?color=orange&label=reputation&logo=stackoverflow">
+  <a href="https://stackoverflow.com/users/14461287">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/14461287?color=orange&label=reputation&logo=stackoverflow">
   </a>
 
   <a href="https://github.com/kooler62?tab=followers">
