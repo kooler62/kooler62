@@ -1,19 +1,19 @@
+[![Site Badge](https://img.shields.io/badge/Afanasiev.top-blue?style=for-the-badge&logoColor=white/)](https://afanasiev.top)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white/)](https://www.linkedin.com/in/volodymyr-afanasiev)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-f00?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC28cHDsRrXlE3qorabaaCBQ)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=/)](https://www.facebook.com/volodymyr.afanasiev.90) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-d72f84?style=for-the-badge&logo=instagram&logoColor=white&link=/)](https://instagram.com/volodymyrafanasiev)
+[![Medium Badge](https://img.shields.io/badge/Medium-03a57a?style=flat-square&logo=Medium&logoColor=white&link=/)](https://https://medium.com/@volodymyrafanasiev)
+[![Pinterest](https://img.shields.io/badge/Pinterest-e60023?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.ru/volodymyrafanasiev)
+[![stackoverflow](https://img.shields.io/badge/stackoverflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://ru.stackoverflow.com/users/439871/volodymyr-afanasiev)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vafanasiev)
+
+
 [![Visits Badge](https://komarev.com/ghpvc/?username=kooler62)](https://github.com/kooler62)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/kooler62)](https://github.com/kooler62)
 [![Repos Badge](https://badges.pufler.dev/repos/kooler62)](https://github.com/kooler62)
 [![Years Badge](https://badges.pufler.dev/years/kooler62)](https://github.com/kooler62)
 [![GitHub Followers Badge](https://img.shields.io/github/followers/kooler62?color=green&logo=github)](https://github.com/kooler62?tab=followers)
-
-  
-[![Site Badge](https://img.shields.io/badge/Afanasiev.top-blue?style=flat-square&logoColor=white/)](https://afanasiev.top)
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white/)](https://www.linkedin.com/in/volodymyr-afanasiev)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-f00?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC28cHDsRrXlE3qorabaaCBQ)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=/)](https://www.facebook.com/volodymyr.afanasiev.90) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-d72f84?style=flat-square&logo=instagram&logoColor=white&link=/)](https://instagram.com/volodymyrafanasiev)
-[![Medium Badge](https://img.shields.io/badge/Medium-03a57a?style=flat-square&logo=Medium&logoColor=white&link=/)](https://https://medium.com/@volodymyrafanasiev)
-[![Pinterest](https://img.shields.io/badge/Pinterest-e60023?style=flat-square&logo=Pinterest&logoColor=white)](https://www.pinterest.ru/volodymyrafanasiev)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/vafanasiev)
-[![stackoverflow](https://img.shields.io/badge/stackoverflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://ru.stackoverflow.com/users/439871/volodymyr-afanasiev)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kooler62&count_private=true&show_icons=true&include_all_commits=true)
