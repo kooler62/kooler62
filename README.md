@@ -50,23 +50,6 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
 </p>
-  <img alt="Golang" src="https://img.shields.io/badge/Golang-8DD6F9.svg?logo=go&logoColor=blue">
-
-<p>
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/Github-181717?logo=GitHub&logoColor=white"/>
-  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab"/>
-  <img alt="BitBucket" src="https://img.shields.io/badge/BitBucket-darkblue?logo=bitbucket"/>
-  <img alt="github actions" src="https://img.shields.io/badge/Github_Actions-2088FF?logo=github-actions&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849BE?logo=insomnia&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-  <img alt="Bitwarden" src="https://img.shields.io/badge/Bitwarden-175DDC?logo=bitwarden&logoColor=white">
-  <img alt="Trello" src="https://img.shields.io/badge/Trello-0079BF?logo=Trello&logoColor=white"/>
-  <img alt="Slack" src="https://img.shields.io/badge/Slack-E01563?logo=Slack&logoColor=white"/>
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/>
-  <img alt="MacOS" src="https://img.shields.io/badge/macOS-BigSur-292e33?style=flat-square&logo=apple&logoColor=ffffff"/>
-  <img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-blueviolet?logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"/>
-</p>
 
 ![Metrics](https://metrics.lecoq.io/kooler62?template=classic&isocalendar=1&languages=1&stars=1&achievements=1&pagespeed=1&lines=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=8&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FTokyo&config.display=large&config.padding=0%25)
 
